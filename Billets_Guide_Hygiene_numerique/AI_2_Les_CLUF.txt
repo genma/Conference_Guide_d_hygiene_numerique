@@ -1,0 +1,17 @@
+A.I.2. - Accepter les conditions d'utilisation
+
+<i>Le terme Contrat de Licence Utilisateur Final (CLUF) est une traduction du terme anglais EULA soit End User License Agreement.</i> Ce sont les fameuses conditions d'utilisations que l'on a pour tout service en ligne, pour lequel on paie... ou pas.
+
+Et comme on dit, <i>si c'est gratuit, c'est vous le produit</i>. Pourquoi dit-on ça? Parce que dans ces conditions d'utilisations que l'on accepte sans lire, il y a plein de clauses permettant un usage commercial par la société derrière le service ou ses partenaires, des données (photos, documents) que l'on partage sur le service, réseau social... 
+
+Vous ne me croyez pas? Un site en anglais <a href="https://tosdr.org/" title="https://tosdr.org/">https://tosdr.org/</a> a créer <a href="https://addons.mozilla.org/fr/firefox/tag/tosdr" title="">une extension pour Firefox qui permet</a>, quand on consulte un site ou un service de voir les parties pertinentes et intéressantes dans tout le charabia juridique des ces fameuses conditions d'utilisation.
+
+<i>Terms of Service; Didn't Read J'ai lu et j'accepte ces conditions » est le plus gros mensonge du Web. Nous voulons y mettre fin. Cette extension vous informe instantanément sur les CGUs et politiques de données des sites, avec les notes et sommaires du projet <a href="https://tosdr.org/" title="https://tosdr.org/">https://tosdr.org/</a></i>
+
+Pour mieux comprendre le soucis, je reprends ici la métaphore de 0x356CDCDE, @d4v3nu11 sur Twitter, pour comprendre ce que cela donne dans la vie non numérique : 
+
+<i>Imaginez que vous êtes dans le rue. Un homme en costume, un commercial, vient vous démarcher pour vous vendre des tas de contrats de services et d'assurances pour lesquels vous n'avez que faire et dont vous n'avez pas besoin. Et pourtant, vous l’accueillez à bras ouvert, un stylo à la main, prêt à tout signer à la volée sans rien en lire...</i> 
+
+Il est fort probable que dans le monde non numérique, si une telle situation se présentait, vous prendriez le temps de regarder les petits caractères en bas de page, de poser des questions pour en savoir plus sur les conditions avant de signer, non? Alors pourquoi ne pas le faire dans sa vie numérique? En commençant à s'intéresser aux conditions d'utilisation des sites et services que l'on utilise.
+
+Et une fois que vous aurez vu que, si c'est gratuit (et pas du logiciel libre), c'est que <i>c'est vous le produit</i>, plus exactement l'exploitation de vos données personnelles à des fins commerciales, de fiche client pour mieux vous afficher de la publicité...  Et la solution à tout ça? Utiliser du logiciel libre (directement via de l'autohébergement ou indirectement en ayant recours à des services reposant eux mêmes sur sur logiciel libre).

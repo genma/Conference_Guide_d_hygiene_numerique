@@ -1,0 +1,23 @@
+A.I.2 - Qu'est ce que je dois sauvegarder?
+
+Ce billet n'est pas un billet technique.  Avant de faire un billet un peu plus technique sur comment je fais mes sauvegardes (quels logiciels, scripts, méthodes etc.) je voudrais partager mon expérience de comment je détermine ce que je dois sauvegarder. Ce sont des conseils en particulier la partie <i>quoi sauvegarder</i> que je donne <a href="https://blog.genma.fr/?Guide-d-Hygiene-numerique-version-2016" title="Guide d’Hygiène numérique">lors de mes conférences sur l'hygiène numérique</a>.
+
+{{Quoi sauvegarder?}}
+
+Pour chaque appareil électronique sur lequel j'ai des données, je me pose la question suivante : il ne marche plus, je le perds, qu'est ce que je perds comme données qui sont ultra-importantes pour moi? Je perds ma clef USB, mon disque dur ou mon ordinateur ne marche plus. L'ordinateur ou le disque dur qui sont là, devant moi, je le fais tomber par terre, il est cassé, il ne marche plus. Qu'est ce que je perds comme données.
+
+<strong>Ces données que je perds et que je ne veux pas perdre, ce sont les données que je dois sauvegarder. C'est aussi simple que ça.</strong>
+
+Pour approfondir le sujet, on pourra lire mon billet - <a href="http://genma.free.fr/?L-importance-des-sauvegardes" title="L’importance des sauvegardes...">L’importance des sauvegardes...</a>
+
+{{Perte du matériel?}}
+
+Pour l'aspect perte et remplacement du matériel, il y a mon billet <a href="http://genma.free.fr/?Yunohost-Autohebergement-Le-Spare" title="Yunohost - Autohébergement - Le Spare">Yunohost - Autohébergement - Le Spare</a>
+
+{{Comment sauvegarder?}}
+
+On peut envisager de cloner via Clonezilla, de copier-coller, de synchroniser via des scripts ou des logiciels dédiés. Ce qui est important c'est d'avoir 3 exemplaires du document. Un exemplaire de travail, deux exemplaires de sauvegarde. Pour le détail, voir le billet <a href="http://genma.free.fr/?Sauvegarde-la-regle-des-3-2-1" title="Sauvegarde la règle des 3-2-1">Sauvegarde la règle des 3-2-1</a>.
+
+{{Comment restaurer?}}
+
+Sur ce sujet, voir mon billet <a href="https://blog.genma.fr/?Sauvegarde-et-restauration" title="Sauvegarde et restauration">Sauvegarde et restauration</a>.

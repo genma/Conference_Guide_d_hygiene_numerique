@@ -1,0 +1,29 @@
+A.I.2 - Porte blindée ou coffre-fort?
+
+Je retranscrits ici une métaphore que j'utilise souvent <a href="https://blog.genma.fr/?Guide-d-Hygiene-numerique-version-2016" title="Guide d’Hygiène numérique">lors de mes conférences sur l'hygiène numérique</a>. Cette métaphore est perfectible, son but est de faire passer des concepts et messages pour amener des notions. Je vous laisse juger par vous-même.
+
+A vous de vous l'approprier quand vous sensiliserez <a href="https://blog.genma.fr/?Guide-d-Hygiene-numerique-version-2016" title="Guide d’Hygiène numérique">aux problématiques de l'hygiène numérique</a>
+
+{{Porte blindée ou coffre-fort?}}
+
+Pour avoir un peu plus de sécurité, on peut mettre une porte blindée à l'entrée de chez soi. Une porte blindée avec trois serrures. On a un peu plus de sécurité, mais une contrainte. Dès que je pars de chez moi, je dois refermer la porte et les trois serrures. C'est long. Je me mets en retard et je rate mon train. En rentrant d'une soirée chez des amis, tard, je n'ai qu'une envie, dormir. Et pourtant je dois ouvrir la porte blindée, les trois serrures. C'est long. D'autant plus difficile si l'alcool aidant la fatigue, je me trompe de clefs à chaque serrure... La porte blindée apporte de la sécurité, mais une grosse contrainte. De plus, si je laisse la fenêtre ouverte, ma porte blindée perd tout son intérêt. Vais-je alors envisager de mettre des barreaux aux fenêtres? Et je finis par vivre au sein d'un bunker.
+
+Qu'ai-je besoin de protéger, concrètement. Quelque bijoux. Je peux donc me contenter d'une porte en bois avec une simple serrure, ce qui dissuade déjà la plupart des voleurs. J'ai moins de contrainte pour rentrer chez moi. Les bijoux sont alors mis dans un coffre-fort. Quand j'ai besoin de mettre mes bijoux, je dois aller ouvrir la porte du coffre-fort, c'est un peu long, mais je ne fais pas tous les jours. La contrainte de passer du temps à ouvrir le coffre-fort n'étant pas faite tous les jours, elle est acceptable.
+
+A chacun de voir s'il a besoin d'une porte blindée pour protéger un maximum de choses ou si un simple coffre-fort numérique suffit... La notion importante ici étant celle que <strong>plus de sécurité induit forcément plus de contrainte</strong>...
+
+{{Coffre-fort numérique}}
+
+Transposons ça au monde numérique. Mes documents importants que je n'utilise pas tous les jours (scans de papier d'identités par exemple), je peux les mettre dans un conteneur Veracrypt, un coffre-fort numérique que je protégèrai avec un mot de passe fort (une phrase de passe donc). Il ne faut pas perdre le mot de passe de même qu'il ne faut pas perdre le code ou la clef du coffre-fort. 
+
+Il existe également un coffre-fort à mot de passe, Keepass X. La contrainte est que je dois récréer un mot de passe unique par site, mais au moins ils sont stockés en un seul endroit, dans ce coffre-fort numérique à mot de passe. Et le mot de passe vraiment important à retenir sera celui du conteneur de KeepassX (de toute façon les mots de passes générés aléatoirement par Keepass sont difficilement mémorisables)
+
+La solidité de ce coffre-fort numérique tient en partie à la qualité de la phrase de passe et plus c'est long, plus c'est bon.
+
+<strong>Ici on amène donc au public trois notions : celle de coffre-fort numérique à documents (Veracrypt), de coffre-fort numérique à mot de passe (KeepassX) et celle de phrase de passe</strong>. On pourra si le temps le permet, faire une démonstration de ces logiciels.
+
+La contrainte est que pour plus de sécurité (avoir un coffre-fort numérique pour protéger mes documents et mots de passe), il va falloir que j'apprenne à installer et utiliser ces logiciels, que j'apprenne à créer une phrase de passe (ce n'est pas ça le plus compliqué), à ouvrir Keepass dès lors que j'ai besoin d'un mot de passe (au lieu d'avoir le même mot de passe partout...).
+
+{{Education populaire}}
+
+En quoi cette façon de faire est-elle bien? En partant d'un métaphore, on amène de notions pour parler de logiciels qui ne sont pas simple. Mais comme le grand public a compris le but et la nécessité de s'approprier ces logiciels, l'enseignement et le partage de connaissance se fait de façon beaucoup plus facile que si on avait directement débuté en présentant Keepass ou Veracrypt.
