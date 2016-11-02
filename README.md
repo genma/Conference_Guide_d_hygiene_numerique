@@ -21,3 +21,7 @@ Ce ne sont pas des tutoriaux. J'évoque KeepassX, Veracrypt, mais je ne fais pas
 {{La suite?}}
 
 Ce support reste une sensibilisation via une conférence, en une heure à deux heures et ne permet pas d'aller dans le détails. <strong>J'incite fortement les personnes sensibilisées suite à cette conférence à aller dans des Cafés vie privée, à rencontrer les personnes des LUGs (Groupes d'utilisateurs Linux), de la Brique Internet, de FDN, de la Quadrature, des Hackerspaces ou autres pour apprendre, mettre en pratique, découvrir les logiciels et techniques évoquées.</strong>
+
+{{Textes liés à la conférences / au support}}
+
+Dans le dossier Billets_Guide_Hygiene_numerique, je mets les billets de blog au fur et à mesure de leurs rédactions, billets qui sont le support texte de ce que je raconte quand j'utilise ce guide en conférence.
